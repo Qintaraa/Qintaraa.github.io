@@ -16,7 +16,7 @@ timezone:
 
 title: Qintara # the main title
 
-tagline: Cybersecurity blog # it will display as the subtitle
+tagline: Cybersecurity blog, write-ups and reviews # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Qintara
+  email: QintaF@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Qintara1140705 # change to your Twitter homepage
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://qintaraa.github.io/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
